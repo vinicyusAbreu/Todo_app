@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+    <header>
+
+        <div class="cabeça">
+            <span class="titulo">TODO</span>
+            <span>
+                <img class="logo" src="image/icon-sun.svg" id='dark'>
+            </span>
+        </div>
+
+        <div class="container-entrada">
+            <div class="check">
+                <span class="checkBox"></span>
+            </div>
+            <input id="entrada" type="text" placeholder="Create a new todo...">
+        </div>
+
+        <div class="conteudo">
+            <ul class="conteudo-lista">
+
+
+
+            </ul>
+
+            <div class="config">
+                <div class="qtd">0 items left</div>
+                <div class="filtros">
+                    <span id="fil1" class="fil1 selecionado">All</span>
+                    <span id="fil2" class="fil2">Active</span>
+                    <span id="fil3" class="fil3">Completed</span>
+                </div>
+                <div class="limpartudo">Clear Completed</div>
+            </div>
+            <footer><span>Criado por Vinicius de Abreu ❤️</span></footer>
+        </div>
+
+
+    </header>
+
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
