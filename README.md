@@ -10,7 +10,7 @@ O aplicativo de tarefas clássico com algumas mudanças! Este aplicativo inclui 
     <li>O usuário pode alterar o status dos itens de ativo para concluído ou vice-versa, apenas clicando sobre eles. Os itens concluídos aparecem com um riscado.</li>
     <li>O usuário pode navegar na página para vê os itens concluidos e itens ativos.</li>
     <li>O usuário pode excluir qualquer item a qualquer momento ou também pode exlucir todo os itens de um só vez</li>
-    <li><h3><strong> Desenvolvido com HTML, CSS e Javascript.</strong></h3></li>
+    <li><strong> Desenvolvido com HTML, CSS e Javascript.</strong></li>
 </ul>
 
 <h2 ><a href="https://vinicyusabreu.github.io/Todo_app/" target="_blank">🚀 Link do Projeto 🚀</a></h2>
