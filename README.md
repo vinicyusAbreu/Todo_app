@@ -1,4 +1,4 @@
-#📝 Todo app
+# 📝 Todo app
 
 O aplicativo de tarefas clássico com algumas mudanças! Este aplicativo inclui um alternador de tema escuro/claro e filtros de concluído.
 
